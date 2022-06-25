@@ -27,6 +27,8 @@ nav ul li{
     float: right;
 }
 .caixa2{ 
+    height: 600px;
+    width: 300px;
     position: relative;
     top: 100px;
     left: 400px;
@@ -38,17 +40,3 @@ body{
 
     
 
-@media screen and (max-width: 8560px){
-    .caixa2{
-        display:none;
-        
-    }
-    .caio{
-        width: 300px;
-        .video{
-            width: 300px
-            height: 150px;;
-        }
-    }
-    .
-}
